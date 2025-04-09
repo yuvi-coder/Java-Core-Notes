@@ -1,0 +1,16 @@
+OOPS : Object Oriented Programming
+
+1. Encapsulation: Bundling the data (variables)
+and the methods that operate on the data into a single unit known as a class.
+
+
+2. Inheritance: Allowing a new class (subclass) to take properties
+and behavior (methods) from an existing class (superclass).
+
+
+3. Polymorphism: A mechanism that allows you to perform
+a single action in different ways.
+
+
+4. Abstraction: Hiding the complexity of the system by providing only
+essential information, allowing users to interact with the system at a higher level.
