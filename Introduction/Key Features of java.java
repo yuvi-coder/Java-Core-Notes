@@ -10,7 +10,6 @@
 to run on different operating systems like Windows, Linux, and macOS.
 
 
-
 # Automatic Memory Management (Garbage Collection) :
 
 1. Java handles memory management through automatic garbage collection.
@@ -19,14 +18,12 @@ freeing up memory that is no longer in use.
 3. This eliminates the need for manual memory management (such as the use of pointers in C/C++).
 
 
-
 # Multithreading :   // https://www.geeksforgeeks.org/multithreading-in-java/
 
 1. Java provides built-in support for multithreading, allowing developers to
 write highly responsive, parallel programs.
 2. Threads are lightweight processes that can run concurrently.
 3. Java simplifies multithreading by providing a rich set of APIs for creating and managing threads.
-
 
 
 # Security :
