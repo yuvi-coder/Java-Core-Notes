@@ -36,3 +36,10 @@ outright experimentation from the production environment or repository
 in the context of software development, including web development,
 automation, revision control, configuration management (see also change management), 
 and patch management.""
+
+Key security features in Java include:
+
+1. Bytecode Verification: Ensuring that the bytecode does not perform unsafe operations.
+2. Security Manager: A component of the JVM that controls
+what resources the program can access (e.g., file system, network).
+3. Class Loaders: Load classes dynamically and can impose security checks.
