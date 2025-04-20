@@ -1,3 +1,6 @@
+https://www.geeksforgeeks.org/java-memory-management/ - reference
+
+
 The Java Memory Model (JMM) defines how Java programs interact with memory, especially in a multithreaded environment. It ensures that changes made by one thread are visible
 to other threads, preventing data corruption and ensuring consistent behavior. The JMM specifies how threads can access and share variables, and it uses concepts like "happens-before"
 to establish visibility rules. 
